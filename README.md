@@ -35,7 +35,15 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=PRAGATI-AI-CODER&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
+<!---
 [![](https://visitcount.itsvg.in/api?id=PRAGATI-AI-CODER&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PRAGATI-AI-CODER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=PRAGATI-AI-CODER&icon=3&color=3)](https://visitcount.itsvg.in)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PRAGATI-AI-CODER&label=Profile%20views&color=0e75b6&style=flat" alt="PRAGATI-AI-CODER" /> </p>

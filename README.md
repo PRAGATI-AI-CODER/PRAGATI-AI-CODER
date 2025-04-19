@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pragati-dubey-441423309/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragati-dubey-441423309/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PRAGATI-AI-CODER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PRAGATI-AI-CODER&theme=dark&hide_border=false)<br/>

@@ -15,7 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🌐 Socials:
+## 
+<h1 align="center">Hi 👋, I'm  Pragati</h1>
+
+<figure align="center" >
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="object-fit:cover;" />
+<figcaption style="text-align:center; font-size:15px; font-family:mono; font-weight:bold;">Pragati Here. A Computer Science & Engineering student from India. </figcaption>
+</figure>
+ 
+<br>
+
+🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/%20pragati-dubey-441423309) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PRAGATI-AI-CODER&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
